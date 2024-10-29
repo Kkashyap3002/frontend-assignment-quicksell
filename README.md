@@ -1,3 +1,8 @@
+### Quicksell Frontend Assignment Submission
+## Author
+
+- **Kishan Kashyap**  
+- Email: k_kashyap@ph.iitr.ac.in
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
