@@ -1,4 +1,4 @@
-### Quicksell Frontend Assignment Submission
+## QuickSell Frontend Assignment Submission
 ## Author
 
 - **Kishan Kashyap**
