@@ -1,7 +1,8 @@
 ### Quicksell Frontend Assignment Submission
 ## Author
 
-- **Kishan Kashyap**  
+- **Kishan Kashyap**
+
 - Email: k_kashyap@ph.iitr.ac.in
 # Getting Started with Create React App
 
